@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sanchitkalra/git-intro-session/issues"
   },
-  "homepage": "https://github.com/sanchitkalra/git-intro-session#readme"
+  "homepage": "https://github.com/sanchitkalra/git-intro-session#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
