@@ -15,7 +15,7 @@ Install git by visiting [https://git-scm.com/downloads](https://git-scm.com/down
 6. `git remote` to see what remotes is your repo connected to
 7. `git branch` to create a new branch
 8. `git checkout` to switch to another branch
-    1. Tip: use `git -b checkout` to create a new branch and switch to it
+    1. Tip: use `git checkout -b` to create a new branch and switch to it
 9. `git stash` to remove all local changes in working directory since the last commit
 
 #### .gitignore
