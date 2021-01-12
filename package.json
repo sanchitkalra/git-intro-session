@@ -1,0 +1,19 @@
+{
+  "name": "git-intro-session",
+  "version": "1.0.0",
+  "description": "#### What is Git? Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchitkalra/git-intro-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchitkalra/git-intro-session/issues"
+  },
+  "homepage": "https://github.com/sanchitkalra/git-intro-session#readme"
+}
